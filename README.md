@@ -1,5 +1,4 @@
-# automated-ram
-
+# Automated-RAM
 ## Overview
 
 This project implements an **automated RAM writer** in Logisim Evolution. On simulation start, a free-running counter sequences through RAM addresses from `0000h` upward, while a random generator continuously produces 8-bit values that get written to each address on every clock cycle.
@@ -78,4 +77,5 @@ On simulation start (after reset):
 ## Author
 
 **Vivian Sobers E** — [github.com/VivianSobers](https://github.com/VivianSobers)
+
 
